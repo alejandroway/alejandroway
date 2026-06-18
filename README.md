@@ -1,6 +1,6 @@
 <!-- **alejandroway/alejandroway** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->https://github.com/alejandroway/alejandroway/blob/master/README.md
 
-### I'm Alejandro Osorio,
+### I'm Alejandro,
 
 Software Engineer with experience building robust and scalable APIs using FastAPI and Python, with knowledge of Next.js for full-stack integration. I specialize in automation, developing trading bots, real-time data handling (WebSockets), and financial API integrations. My focus is on performance, efficiency, and clean software architecture-delivering reliable solutions that power algorithmic trading and data-driven systems.
 
